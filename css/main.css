@@ -1,0 +1,16 @@
+nav {
+  padding: 8px;
+  color: white;
+  background-color: #FFFFFF;
+}
+
+li {
+  display: inline-block;
+
+}
+ul {
+  text-align: center;
+}
+a:hover{
+  color: red;
+}
