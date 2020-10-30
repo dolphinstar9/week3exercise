@@ -1,6 +1,6 @@
 nav {
   padding: 8px;
-  color: white;
+  color: black;
   background-color: #FFFFFF;
 }
 
@@ -12,5 +12,5 @@ ul {
   text-align: center;
 }
 a:hover{
-  color: red;
+  color: green;
 }
